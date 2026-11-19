@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BlazorApp11/BlazorApp11.Client/BlazorApp11.Client.csproj" />
+  <Project Path="BlazorApp11/BlazorApp11/BlazorApp11.csproj" />
+  <Project Path="RemoteApi/RemoteApi.csproj" Id="811be435-6489-4629-adfd-507e33df0979" />
+</Solution>
